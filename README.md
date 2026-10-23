@@ -10,3 +10,5 @@ Pantalla de bienvenida para Android (Java) que muestra:
 1. Clona el repositorio.
 2. En Android Studio: *File > Open* y selecciona la carpeta.
 3. Espera la sincronización de Gradle y ejecuta en el emulador.
+
+ proyecto hecho por cristian
