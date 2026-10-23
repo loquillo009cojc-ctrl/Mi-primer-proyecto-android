@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tam_titulo">48sp</dimen>
+    <dimen name="tam_boton">20sp</dimen>
+    <dimen name="ancho_boton">180dp</dimen>
+    <dimen name="alto_boton">56dp</dimen>
+    <dimen name="tam_robot">120dp</dimen>
+</resources>

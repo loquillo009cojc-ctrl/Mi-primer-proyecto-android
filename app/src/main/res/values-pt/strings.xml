@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu primeiro projeto Android</string>
+    <string name="titulo">Olá, marcianinho!</string>
+    <string name="descripcion">Este aplicativo suporta quatro idiomas, usa um fundo nine-patch redimensionável e se adapta a diferentes telas.</string>
+    <string name="elige_idioma">Escolha um idioma</string>
+    <string name="idioma_en">English</string>
+    <string name="idioma_es">Español</string>
+    <string name="idioma_fr">Français</string>
+    <string name="idioma_pt">Português</string>
+</resources>
